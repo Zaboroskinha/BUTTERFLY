@@ -1,4 +1,9 @@
-h1{
-    color: blue;
+< h1{
+    color: rgb(167, 238, 234);
 }
-    
+body{
+    background-color: rgb(212, 171, 250);
+}
+.centro{
+    text-align: center;
+}
