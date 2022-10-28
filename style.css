@@ -1,9 +1,16 @@
 < h1{
-    color: rgb(167, 238, 234);
+    color: rgba(119, 116, 116, 0.842);
 }
 body{
-    background-color: rgb(212, 171, 250);
+    background-color: rgb(32, 68, 25, 0.877) ;
 }
 .centro{
     text-align: center;
 }
+.ft1{ margin-left: 452px;
+height: 300px;
+}
+.texto{
+    /* border: solid 5px green,*/
+        background-color: grey;
+        margin: 100px 30%
