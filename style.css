@@ -1,0 +1,44 @@
+< h1{
+    color: rgba(119, 116, 116, 0.842);
+}
+body{
+    background-color: rgba(29, 112, 18, 0.877) ;
+}
+.centro{
+    text-align: center;
+}
+.ft1{ margin-left: 317px;
+height: 300px;
+}
+   .foto2 { 
+        margin-left: 517px;
+        height: 300px;
+}
+.texto{
+    /* border: solid 5px green,*/
+        background-color: grey;
+        margin: 100px 30%
+         }
+         header{height: 200px;
+            background-image: linear-gradient(to right,#247332 60%,#1b8a0f4f 40%); 
+        }
+        .links{
+            color: #f0f8ff;
+            border-width: 10px; 
+            }
+          a{
+            color: #f0f8ff;
+            margin-right: 100px;
+            text-decoration: none;
+            text-shadow: 2px 2px 1px  #117914c7;
+            font-weight: bold;
+            border-radius: 5px;
+            transition-duration: 0,5s;
+            }
+            nav > a:hover{
+              background-color: #fdfdfd;
+              padding: 5px;
+            }
+            .title{
+                text-align: center;
+            }
