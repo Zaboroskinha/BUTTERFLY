@@ -7,17 +7,17 @@ body{
 .centro{
     text-align: center;
 }
-.ft1{ margin-left: 317px;
+.ft1{ margin-left: 430px;
 height: 300px;
 }
    .foto2 { 
-        margin-left: 517px;
-        height: 300px;
+        margin-left: 640px;
+        height: 310px;
 }
 .texto{
     /* border: solid 5px green,*/
         background-color: grey;
-        margin: 100px 30%
+        margin: 110px 30%
          }
          header{height: 200px;
             background-image: linear-gradient(to right,#247332 60%,#1b8a0f4f 40%); 
@@ -41,4 +41,4 @@ height: 300px;
             }
             .title{
                 text-align: center;
-            }
+            } 
